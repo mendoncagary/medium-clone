@@ -50,7 +50,7 @@ This is a [Medium](https://medium.com) clone built using [React.js](https://reac
 1. Create an issue. First look through [the open issues](https://github.com/mendoncagary/medium-clone/issues).
 1. Clone the repository or fork it.
 
-         git clone https://github.com/mendoncagar/medium-clone
+         git clone https://github.com/mendoncagary/medium-clone
 
 
 1. Create your feature branch:
